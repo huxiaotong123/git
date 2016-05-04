@@ -2,4 +2,4 @@ hello
 
 hello huxiaotong
 
-new hello
+new 2
