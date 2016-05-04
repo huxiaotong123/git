@@ -11,3 +11,5 @@ new 3
 ll
 
 haha
+
+str+1
